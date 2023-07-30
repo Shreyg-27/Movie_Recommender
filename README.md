@@ -20,8 +20,8 @@ When given a movie as an input, the Machine Learning Algorithm would predict top
 
 ### RESULTS 
 
-Images/Screenshot (590).png
+![image](https://github.com/Shreyg-27/Movie_Recommender_System/assets/98229024/25e1e725-36a9-44e9-9994-e59201d3c6fa)
 
-Images/Screenshot (591).png
+![image](https://github.com/Shreyg-27/Movie_Recommender_System/assets/98229024/d2c50abf-34cb-41b8-ac4b-0ad018051e64)
 
-Images/Screenshot (592).png
+

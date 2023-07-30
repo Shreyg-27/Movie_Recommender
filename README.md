@@ -16,4 +16,12 @@ When given a movie as an input, the Machine Learning Algorithm would predict top
 
 5) The stemmer will help in merging same words together. 
 
-6) The recommend function at the end will help in predicting 5 most similar movies. 
+6) The recommend function at the end will help in predicting 5 most similar movies.
+
+### RESULTS 
+
+Images/Screenshot (590).png
+
+Images/Screenshot (591).png
+
+Images/Screenshot (592).png
